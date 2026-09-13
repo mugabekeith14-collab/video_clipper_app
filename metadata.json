@@ -1,0 +1,6 @@
+{
+  "name": "Video Clipper",
+  "description": "Mobile video clipping app to trim clips, crop aspect ratios, add text overlays, adjust speed, and export to gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
